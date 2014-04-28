@@ -1,3 +1,21 @@
+---
+title: test Post
+permalink: test-post
+languages: [javascript]
+summary: just testing some stuff
+published: true 
+project:
+
+# You will be able to preview unpublished posts while you are logged on. 
+
+# Add the (permalink) for a project in your projects folder
+# to show that this post is associated with it.
+
+# Github Flavored Markdown reference
+# https://help.github.com/articles/github-flavored-markdown
+---
+
+
 ### Testing Some Coder Base Stuff
 Your bones don't break, mine do. That's clear. Your cells react to bacteria and viruses differently than mine. You don't get sick, I do. That's also clear. But for some reason, you and I react the exact same way to water. We swallow it too fast, we choke. We get some in our lungs, we drown. However unreal it may seem, we are connected, you and I. We're on the same curve, just on opposite ends.
 
