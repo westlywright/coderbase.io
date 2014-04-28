@@ -4,7 +4,6 @@ permalink: test-post
 languages: [javascript]
 summary: just testing some stuff
 published: true 
-draft: false 
 project:
 
 # You will be able to preview unpublished posts while you are logged on. 
